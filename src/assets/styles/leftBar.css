@@ -1,0 +1,37 @@
+.sideBar {
+  transition: all 0.5s ease;
+}
+
+.sideBar img {
+  transition: all 0.5s ease;
+}
+
+.Link {
+  text-decoration: none;
+  color: grey;
+}
+
+.Link p {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.Link:hover {
+  color: #53acce;
+}
+
+.Link:hover svg {
+  fill: #53acce;
+}
+
+.live {
+  color: white;
+}
+
+.soon:hover {
+  color: grey;
+}
+
+.soon:hover svg {
+  fill: grey;
+}

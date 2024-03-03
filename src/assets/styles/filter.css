@@ -1,0 +1,40 @@
+.subheading {
+  text-align: start;
+  margin: 3px 20px;
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+}
+
+.filters div {
+  border-left: 1px solid white;
+}
+
+.f-options {
+  padding: 0 20px;
+}
+
+.f-link {
+  margin-right: 5px;
+  text-decoration: none;
+  color: #fff;
+  padding: 1px 1px;
+  border-radius: 5px;
+}
+.f-link:hover {
+  background-color: #53acff;
+  color: black;
+}
+.f-icon {
+  width: 18px;
+  margin: 0 3px 0 6px;
+}
+.filters,
+label {
+  font-size: 9px;
+}
+
+.choices {
+  color: #fff;
+  margin-left: 10px;
+}
